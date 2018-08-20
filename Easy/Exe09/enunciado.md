@@ -1,0 +1,1 @@
+Faça um programa que calcule e mostre a área de um triângulo. sabe-se que: Área = (base * altura)/2.
