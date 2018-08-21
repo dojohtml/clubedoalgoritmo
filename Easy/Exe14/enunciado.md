@@ -1,0 +1,1 @@
+Faça um programa que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em celcius
