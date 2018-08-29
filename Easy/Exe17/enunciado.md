@@ -1,0 +1,1 @@
+Um trabalhador recebeu seu salário e o depositou em sua conta bancária. Esse trabalhador emitiu dois cheques e agora deseja saber seu saldo atual. sabe-se que cada operação bancária de retirada paga cPMF de 0,38% e o saldo inicial da conta está zerado.
